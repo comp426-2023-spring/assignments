@@ -12,9 +12,9 @@ Some assignments will introduce important new material that isn't directly cover
 
 | **Assignment** | **GitHub Classroom Invite** | **Template Repo** | **Due date** |
 |:--- |:--- |:--- |:--- |
-| a00: Onboarding | [Accept invite](https://classroom.github.com/a/sJ6op7w2) | [Issues](https://github.com/comp426-2023-spring/a00/issues/) | 2023-01-19 23:59 |
+| a00: Onboarding | [Accept invite](https://classroom.github.com/a/sJ6op7w2) | [Issues](../../../a00/issues/) | 2023-01-19 23:59 |
 | a01: Node.js | [Accept invite](https://classroom.github.com/a/2LxXCDZ2) | [Issues](../../../a01/issues/) | 2023-01-26 23:59 |
-| a02: Functions | [Accept invite](https://classroom.github.com/a/wjfhBtVG/ | [Issues](../../../a02/issues/ | 2023-02-09 23:59 |
+| a02: Functions | [Accept invite](https://classroom.github.com/a/wjfhBtVG/) | [Issues](../../../a02/issues/) | 2023-02-09 23:59 |
 | a03: Modules | <!--[Accept invite]()--> | <!--[Issues](../../../a03/issues/--> | 2023-02-16 23:59 |
 | a04: API | <!--[Accept invite]()--> | <!--[Issues](../../../a04/issues/--> | 2023-03-02 23:59 |
 | a05: Database | <!--[Accept invite]()--> | <!--[Issues](../../../a05/issues/--> | 2023-03-09 23:59 |
