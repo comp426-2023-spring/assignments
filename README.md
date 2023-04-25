@@ -18,4 +18,5 @@ Some assignments will introduce important new material that isn't directly cover
 | a03: Modules | [Accept invite](https://classroom.github.com/a/p57R-IU9) | [Issues](../../../a03/issues/) | 2023-02-23 23:59 |
 | a04: API | [Accept invite](https://classroom.github.com/a/-NaU1Ost) | [Issues](../../../a04/issues/) | 2023-04-06 23:59 |
 | a99: Final Team Project | [Information](../../../a99/) | [Issues](../../../a99/issues/) | 2023-05-05 19:00 | 
-| e02: Final exam | [Accept invite]() | [Issues]() | 2023-05-09 19:00 |
+| e02: Final exam | [Accept invite](https://classroom.github.com/a/d83Ec2gW) | [Issues](https://github.com/comp426-2023-spring/e02/issues) | 2023-05-09 19:00 |
+| MANDATORY SELF-EVAL | [Fill out the self-evaulation](https://unc.az1.qualtrics.com/jfe/form/SV_cImKRp21KDuVxeC) | | 2023-05-09 19:00 |
